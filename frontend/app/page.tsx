@@ -1,0 +1,1 @@
+export default function Page() { return <main style={{background:'#0f1117',color:'#fff',minHeight:'100vh',padding:32,fontFamily:'sans-serif'}}><h1>arc-agent-router</h1><p>AI agent routing layer for Arc USDC actions</p><p>Arc Chain: 5042002 • USDC gas • Agent-ready</p></main> }
